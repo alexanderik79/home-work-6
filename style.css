@@ -1,45 +1,45 @@
 table{
     border-collapse: collapse;
-    border: 8px solid;
-    width: 500px;
-    height: 500px;
+    border: 2px solid;
+    width: 15rem;
+    height: 15rem;
   }
   
   .first-row{
-    border: 8px solid;
+    border: 2px solid;
   }
   
   .second-row{
-    border: 8px solid;
+    border: 2px solid;
   }
   
   .third-row{
-    border: 8px solid;
+    border: 2px solid;
   }
   
   .fourth-row{
-    border: 8px solid;
+    border: 2px solid;
   }
   
   .fifth-row{
-    border: 8px solid;
+    border: 2px solid;
   }
   
   .sixth-row{
-    border: 8px solid;
+    border: 2px solid;
     border-bottom: 1px solid white;
     height: 1rem;
   }
   
   .seventh-row{
-    border: 8px solid;
+    border: 2px solid;
     border-top: 1px solid white;
     border-bottom: 1px solid white;
     height: .25rem;
   }
   
   .eighth-row{
-    border: 8px solid;
+    border: 2px solid;
     border-top: 1px solid white;
     height: .25rem;
   }
