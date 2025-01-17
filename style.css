@@ -1,0 +1,97 @@
+table{
+    border-collapse: collapse;
+    border: 8px solid;
+    width: 500px;
+    height: 500px;
+  }
+  
+  .first-row{
+    border: 8px solid;
+  }
+  
+  .second-row{
+    border: 8px solid;
+  }
+  
+  .third-row{
+    border: 8px solid;
+  }
+  
+  .fourth-row{
+    border: 8px solid;
+  }
+  
+  .fifth-row{
+    border: 8px solid;
+  }
+  
+  .sixth-row{
+    border: 8px solid;
+    border-bottom: 1px solid white;
+    height: 1rem;
+  }
+  
+  .seventh-row{
+    border: 8px solid;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    height: .25rem;
+  }
+  
+  .eighth-row{
+    border: 8px solid;
+    border-top: 1px solid white;
+    height: .25rem;
+  }
+  
+  .column1{
+    width: 12%;
+  }
+  
+  .column10{
+    width: 8%;
+  }
+  
+  #fr1{
+    width: 20%;
+  }
+  
+  #fr3{
+    background-color: yellow;
+  }
+  
+  #sr2{
+    background-color: red;
+  }
+  
+  #sr3{
+    background-color: yellow;
+  }
+  
+  #for2{
+    background-color: black;
+  }
+  
+  #fir4{
+    background-color: darkblue;
+  }
+  
+  #fir5{
+    background-color: red;
+  }
+  
+  #sir1{
+    background-color: yellow;
+  }
+  
+  #sir3{
+    background-color: black;
+  }
+  
+  .vert1{
+    height: 20%;
+  }
+  
+  .vert2{
+    height: 40%;
+  }
